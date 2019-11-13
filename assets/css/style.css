@@ -7,3 +7,9 @@ body {
 h2 {
     font-family: Lobster;
 }
+
+.ratings {
+    color: yellow;
+    font-family: avenir;
+    font-size: 18px;
+}
