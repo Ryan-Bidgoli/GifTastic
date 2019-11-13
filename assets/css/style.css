@@ -13,3 +13,9 @@ h2 {
     font-family: avenir;
     font-size: 18px;
 }
+
+.btn-primary {
+    margin-left: 10px;
+    background: yellow;
+    color: blue;
+}
