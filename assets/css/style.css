@@ -19,3 +19,8 @@ h2 {
     background: yellow;
     color: blue;
 }
+
+
+.form-control {
+    width: 30%;
+}
