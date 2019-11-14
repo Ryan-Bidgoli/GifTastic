@@ -30,3 +30,7 @@ function searchGif(gifName) {
         })
 }
 
+function displayGif(response) {
+    
+}
+
