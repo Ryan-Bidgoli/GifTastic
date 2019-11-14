@@ -8,4 +8,8 @@ $(document).ready(function(){
     var userInput = $('#athlete-input').val();
     searchGif(userInput);  
 }
- 
+
+
+function submitButtonClicked() {
+   
+}
