@@ -5,6 +5,7 @@ $(document).ready(function(){
     }
     }
     function athleteButtonClicked() {
-    
+    var userInput = $('#athlete-input').val();
+    searchGif(userInput);
 }
-
+ 
