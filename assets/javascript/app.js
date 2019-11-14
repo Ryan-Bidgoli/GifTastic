@@ -4,4 +4,7 @@ $(document).ready(function(){
         $("#athlete-buttons").append("<button type='button' onclick='searchGif(\"" + athletesArray[i] + "\")' class='btn btn-primary' value=' " + athletesArray[i] + "'> " + athletesArray[i] + " </button>");
     }
     }
+    function athleteButtonClicked() {
     
+}
+
