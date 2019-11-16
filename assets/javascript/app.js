@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 $(document).ready(function(){
  var athletesArray = ["Kobe Bryant", "Michael Jordan", "Lebron James", "Tom Brady"];
     for (var i = 0; i < athletesArray.length; i++) {
@@ -44,7 +44,6 @@ function displayGif(response) {
         $('#athletes').append(image);
     }
   $('.movImage').on('click', function() {
-=======
 
 $(document).ready(function() {
     var athletesArray = ["Kobe Bryant", "Michael Jordan", "Lebron James", "Tom Brady"];
@@ -89,7 +88,7 @@ function displayGif(response) {
     }
 
     $('.movImage').on('click', function() {
->>>>>>> wallpaper and new title
+
         var state = $(this).attr('data-state');
         if (state == 'still') {
             $(this).attr('src', $(this).attr("data-animate"));
@@ -100,9 +99,3 @@ function displayGif(response) {
         }
 
     });
-<<<<<<< HEAD
-   
-
-=======
->>>>>>> wallpaper and new title
-}
